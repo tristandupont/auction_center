@@ -1,0 +1,6 @@
+# Ignore Intellij IDEA
+.idea
+*.iml
+
+# Ignore maven output
+target
